@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Agro-Wallflower's first Github page!
 
-You can use the [editor on GitHub](https://github.com/Agro-Wallflower/Agro-Wallflower.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### I hope to learn quite a bit about Github from this little exercise!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am very new to coding but I am enjoying learning about it, an I hope to greatly expand my knowledge.
 
 # Header 1
 ## Header 2
@@ -17,13 +10,14 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Languages I would like to know more about:
 
-1. Numbered
-2. List
+1. JSS
+2. C++
 
-**Bold** and _Italic_ and `Code` text
+**HTML and CSS are the languages I am most comfortable in** but _I hope to learn other languages in the future_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Here is a link to my college's website]https://www.arapahoe.edu/) and ![ACC Logo](src= Web Design/ACC_Logo.png)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
