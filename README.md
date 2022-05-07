@@ -4,10 +4,6 @@
 
 I am very new to coding but I am enjoying learning about it, an I hope to greatly expand my knowledge.
 
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 - Languages I would like to know more about:
