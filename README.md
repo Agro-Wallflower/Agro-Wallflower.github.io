@@ -11,7 +11,7 @@ I am very new to coding but I am enjoying learning about it, an I hope to greatl
 
 **HTML and CSS are the languages I am most comfortable in** but _I hope to learn other languages in the future_ and `Code` text
 
-[Here is a link to my college's website]https://www.arapahoe.edu/) and ![ACC Logo](Web Design/ACC_Logo.png)
+[Here is a link to my college's website]https://www.arapahoe.edu/) and ![ACC Logo]( src= "Web Design/ACC_Logo.png")
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
