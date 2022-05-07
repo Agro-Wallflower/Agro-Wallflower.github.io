@@ -9,7 +9,7 @@ I am very new to coding but I am enjoying learning about it, an I hope to greatl
 1. JSS
 2. C++
 
-**HTML and CSS are the languages I am most comfortable in** but _I hope to learn other languages in the future_ and `Code` text
+**HTML and CSS are the languages I am most comfortable in** but _I hope to learn other languages in the future_
 
 [Here is a link to my college's website]https://www.arapahoe.edu/)
 ```
